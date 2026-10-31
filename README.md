@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm N̶o̶x̶v̶y̶ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm N̶o̶x̶v̶y̶e <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Always+learning%F0%9F%92%AA;Front-End+Developer%E2%9A%A1;Scroll+down+for+more+info%F0%9F%98%89" alt="Typing SVG" /></a>
 </div>
