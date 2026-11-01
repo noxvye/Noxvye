@@ -9,10 +9,9 @@
 </a>
 </div>
 
-<div align="center">
 | ![](https://github-stats-extended.vercel.app/api?username=noxvye&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) | ![](https://github-stats-extended.vercel.app/api/top-langs?username=noxvye&layout=compact&langs_count=8&theme=transparent&hide_border=true) |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-</div>
+
 
 ![snakedark](https://raw.githubusercontent.com/noxvye/noxvye/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![snakelight](https://raw.githubusercontent.com/noxvye/noxvye/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
